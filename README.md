@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo analizar y visualizar el rendimiento de varias
 
 ## Estructura del Proyecto
 
-El análisis se divide en varias etapas, utilizando `Python`, `Pandas` y `Matplotlib`.
+El análisis se divide en varias etapas, utilizando `Python`, `Pandas`, `Numpy` y `Matplotlib`.
 
 ### 1. Preparación de Datos
 
